@@ -1,6 +1,11 @@
 RODRIGO ASIR
 TAMBIEN ME GUSTA LA INFORMATICA
+<<<<<<< HEAD
 BIENVENIDO AL PROYECTO
 
 ## Este es mi nuevo proyecto
 
+=======
+
+TAMBIEN SOY PINTOR
+>>>>>>> develop
