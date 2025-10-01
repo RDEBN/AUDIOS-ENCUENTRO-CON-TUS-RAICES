@@ -17,3 +17,9 @@ $$
 $$
 
 *[LMSGI]: Lenguajes de Marcas y Gestión de la Información
+
+MARC MARQUEZ ES EL MEJOR
+
+$$
+ x = \frac {-b \pm \sqrt {b^2 - 4ac}}{2a}
+$$
